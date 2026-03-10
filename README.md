@@ -5,10 +5,10 @@ This project explores real-time frame processing, image manipulation, and creati
 
 #Live Demo
 Run locally to see the ASCII animation in your terminal.
-``` ```python ascii_video.py
+``` ```python ascii_video.py``` ```
 
 Or run with a custom video file:
-python ascii_video.py your_video.mp4
+``` ```python ascii_video.py your_video.mp4``` ```
 
 ## Key Features
 - Converts video frames into ASCII art in real time
@@ -31,13 +31,14 @@ It focuses on understanding how image data can be transformed and represented in
 
 ## Setup
 Install dependencies:
-``` ```pip install -r requirements.txt
+``` ```pip install -r requirements.txt``` ```
 
 Run the project:
-``` ```python ascii_video.py
+``` ```python ascii_video.py``` ```
 
 Optional parameters:
-``` ```python ascii_video.py sample_video.mov --width 80 --fps 20
+``` ```python ascii_video.py sample_video.mov --width 80 --fps 20``` ```
 
 ## Notes
 This project is intended as a creative programming experiment demonstrating how video data can be transformed into ASCII-based visualizations using simple computer vision techniques.
+
